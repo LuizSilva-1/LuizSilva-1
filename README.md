@@ -15,3 +15,5 @@
 
 
 [![Certificado](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/152e2b93-4eca-433e-92d6-b7fe318bc14e/linked_in?t=rlyhmo)
+
+### OBS: Meu perfil no Git está em construção, em breve compartilharei meus projetos nesta página.
