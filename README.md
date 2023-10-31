@@ -1,7 +1,11 @@
 ### Olá! Me chamao Luiz Silva, sou analista DevOps👋🏾
 
 
-![Luiz-Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizodj&show_icons=true&theme=onedark)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSilva-1&layout=compact&langs_count=7&theme=onedark"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizSilva-1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 ### Tecnologias que eu uso no meu dia.
